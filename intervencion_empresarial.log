@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 MAY 2025 13:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 MAY 2025 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -68,6 +68,22 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks21
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -112,10 +128,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box53
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
-\LTleft=\skip51
-\LTright=\skip52
-\LTpre=\skip53
-\LTpost=\skip54
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
 \LTchunksize=\count284
 \LTcapwidth=\dimen153
 \LT@head=\box54
@@ -151,8 +167,8 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )) (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box59
-\beforetitleunit=\skip55
-\aftertitleunit=\skip56
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
 \ttl@plus=\dimen162
 \ttl@minus=\dimen163
 \ttl@toksa=\toks26
@@ -163,57 +179,57 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-\f@nch@headwidth=\skip57
-\f@nch@offset@elh=\skip58
-\f@nch@offset@erh=\skip59
-\f@nch@offset@olh=\skip60
-\f@nch@offset@orh=\skip61
-\f@nch@offset@elf=\skip62
-\f@nch@offset@erf=\skip63
-\f@nch@offset@olf=\skip64
-\f@nch@offset@orf=\skip65
-\f@nch@height=\skip66
-\f@nch@footalignment=\skip67
-\f@nch@widthL=\skip68
-\f@nch@widthC=\skip69
-\f@nch@widthR=\skip70
+\f@nch@headwidth=\skip71
+\f@nch@offset@elh=\skip72
+\f@nch@offset@erh=\skip73
+\f@nch@offset@olh=\skip74
+\f@nch@offset@orh=\skip75
+\f@nch@offset@elf=\skip76
+\f@nch@offset@erf=\skip77
+\f@nch@offset@olf=\skip78
+\f@nch@offset@orf=\skip79
+\f@nch@height=\skip80
+\f@nch@footalignment=\skip81
+\f@nch@widthL=\skip82
+\f@nch@widthC=\skip83
+\f@nch@widthR=\skip84
 \@temptokenb=\toks27
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip71
-\cftbeforetoctitleskip=\skip72
-\cftaftertoctitleskip=\skip73
-\cftbeforepartskip=\skip74
-\cftpartnumwidth=\skip75
-\cftpartindent=\skip76
-\cftbeforesecskip=\skip77
-\cftsecindent=\skip78
-\cftsecnumwidth=\skip79
-\cftbeforesubsecskip=\skip80
-\cftsubsecindent=\skip81
-\cftsubsecnumwidth=\skip82
-\cftbeforesubsubsecskip=\skip83
-\cftsubsubsecindent=\skip84
-\cftsubsubsecnumwidth=\skip85
-\cftbeforeparaskip=\skip86
-\cftparaindent=\skip87
-\cftparanumwidth=\skip88
-\cftbeforesubparaskip=\skip89
-\cftsubparaindent=\skip90
-\cftsubparanumwidth=\skip91
-\cftbeforeloftitleskip=\skip92
-\cftafterloftitleskip=\skip93
-\cftbeforefigskip=\skip94
-\cftfigindent=\skip95
-\cftfignumwidth=\skip96
+\cftparskip=\skip85
+\cftbeforetoctitleskip=\skip86
+\cftaftertoctitleskip=\skip87
+\cftbeforepartskip=\skip88
+\cftpartnumwidth=\skip89
+\cftpartindent=\skip90
+\cftbeforesecskip=\skip91
+\cftsecindent=\skip92
+\cftsecnumwidth=\skip93
+\cftbeforesubsecskip=\skip94
+\cftsubsecindent=\skip95
+\cftsubsecnumwidth=\skip96
+\cftbeforesubsubsecskip=\skip97
+\cftsubsubsecindent=\skip98
+\cftsubsubsecnumwidth=\skip99
+\cftbeforeparaskip=\skip100
+\cftparaindent=\skip101
+\cftparanumwidth=\skip102
+\cftbeforesubparaskip=\skip103
+\cftsubparaindent=\skip104
+\cftsubparanumwidth=\skip105
+\cftbeforeloftitleskip=\skip106
+\cftafterloftitleskip=\skip107
+\cftbeforefigskip=\skip108
+\cftfigindent=\skip109
+\cftfignumwidth=\skip110
 \c@lofdepth=\count291
 \c@lotdepth=\count292
-\cftbeforelottitleskip=\skip97
-\cftafterlottitleskip=\skip98
-\cftbeforetabskip=\skip99
-\cfttabindent=\skip100
-\cfttabnumwidth=\skip101
+\cftbeforelottitleskip=\skip111
+\cftafterlottitleskip=\skip112
+\cftbeforetabskip=\skip113
+\cfttabindent=\skip114
+\cfttabnumwidth=\skip115
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
  (/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
@@ -316,7 +332,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip102
+\Hy@SectionHShift=\skip116
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
  (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -327,8 +343,8 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )) (/usr/local/texlive/2025/texmf-dist/tex/latex/preprint/authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
-\affilsep=\skip103
-\@affilsep=\skip104
+\affilsep=\skip117
+\@affilsep=\skip118
 \c@Maxaffil=\count304
 \c@authors=\count305
 \c@affil=\count306
@@ -385,14 +401,14 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \blx@sectionciteorderinternal@0=\count348
 \blx@entrysetcounter=\count349
 \blx@biblioinstance=\count350
-\labelnumberwidth=\skip105
-\labelalphawidth=\skip106
-\biblabelsep=\skip107
-\bibitemsep=\skip108
-\bibnamesep=\skip109
-\bibinitsep=\skip110
-\bibparsep=\skip111
-\bibhang=\skip112
+\labelnumberwidth=\skip119
+\labelalphawidth=\skip120
+\biblabelsep=\skip121
+\bibitemsep=\skip122
+\bibnamesep=\skip123
+\bibinitsep=\skip124
+\bibparsep=\skip125
+\bibhang=\skip126
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language91
@@ -489,20 +505,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedcitation=\count429
 \c@pageref=\count430
 \c@savedpageref=\count431
-\shorthandwidth=\skip113
-\shortjournalwidth=\skip114
-\shortserieswidth=\skip115
-\shorttitlewidth=\skip116
-\shortauthorwidth=\skip117
-\shorteditorwidth=\skip118
-\locallabelnumberwidth=\skip119
-\locallabelalphawidth=\skip120
-\localshorthandwidth=\skip121
-\localshortjournalwidth=\skip122
-\localshortserieswidth=\skip123
-\localshorttitlewidth=\skip124
-\localshortauthorwidth=\skip125
-\localshorteditorwidth=\skip126
+\shorthandwidth=\skip127
+\shortjournalwidth=\skip128
+\shortserieswidth=\skip129
+\shorttitlewidth=\skip130
+\shortauthorwidth=\skip131
+\shorteditorwidth=\skip132
+\locallabelnumberwidth=\skip133
+\locallabelalphawidth=\skip134
+\localshorthandwidth=\skip135
+\localshortjournalwidth=\skip136
+\localshortserieswidth=\skip137
+\localshorttitlewidth=\skip138
+\localshortauthorwidth=\skip139
+\localshorteditorwidth=\skip140
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
@@ -597,26 +613,26 @@ LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `intervencion_empresarial.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -626,17 +642,17 @@ LaTeX Info: Redefining \% on input line 68.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(113.81102pt, 429.3521pt, 71.13188pt)
-* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=429.3521pt
-* \textheight=624.25346pt
-* \oddsidemargin=41.54103pt
-* \evensidemargin=41.54103pt
-* \topmargin=-23.91173pt
+* \textwidth=469.75539pt
+* \textheight=650.43037pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-37.00018pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=42.67912pt
 * \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=44.0pt
@@ -674,7 +690,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 68.
+Package hyperref Info: Link coloring OFF on input line 81.
  (./intervencion_empresarial.out) (./intervencion_empresarial.out)
 \@outlinefile=\write4
 \openout4 = `intervencion_empresarial.out'.
@@ -701,19 +717,14 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'intervencion_empresarial.bbl' found.
  (./intervencion_empresarial.bbl)
-Package biblatex Info: Reference section=0 on input line 68.
-Package biblatex Info: Reference segment=0 on input line 68.
+Package biblatex Info: Reference section=0 on input line 81.
+Package biblatex Info: Reference segment=0 on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 73.
+(Font)              <12> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 73.
+(Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 73.
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
-
- []
-
+(Font)              <6> on input line 86.
 
 
 [1
@@ -721,9 +732,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--76
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 107.
+(Font)              <7> on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 107.
+(Font)              <5> on input line 115.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
@@ -735,10 +756,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.107 \chapterbreak
+l.115 \chapterbreak
                     [1
 
 ] (./sections/aceptacion.tex)
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -752,6 +783,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ] (./sections/dedicatoria.tex)
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
 (fancyhdr)                \setlength{\headheight}{36.09439pt}.
@@ -761,6 +802,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3
 
 ] (./sections/agradecimientos.tex)
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -774,6 +825,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ] (./sections/resumen.tex)
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
 (fancyhdr)                \setlength{\headheight}{36.09439pt}.
@@ -783,6 +844,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [5
 
 ] (./sections/abstract.tex)
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -826,6 +897,16 @@ LaTeX Info: Redefining \% on input line 1.
 [8] (./sections/introduccion.tex)
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
 (fancyhdr)                \setlength{\headheight}{36.09439pt}.
@@ -837,6 +918,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ] (./sections/objetivos.tex)
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
 (fancyhdr)                \setlength{\headheight}{36.09439pt}.
@@ -845,7 +936,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10
 
-]
+] (./sections/justificacion.tex
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -856,7 +957,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [11
 
-]
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -865,15 +976,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
-[12
+[12]
 
-]
-<assets/figura1.png, id=122, 722.7pt x 433.62pt>
-File: assets/figura1.png Graphic file (type png)
-<use assets/figura1.png>
-Package pdftex.def Info: assets/figura1.png  used on input line 161.
-(pdftex.def)             Requested size: 300.54515pt x 180.32608pt.
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -884,7 +997,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [13
 
- <./assets/figura1.png>]
+]
+<assets/figura1.png, id=125, 722.7pt x 433.62pt>
+File: assets/figura1.png Graphic file (type png)
+<use assets/figura1.png>
+Package pdftex.def Info: assets/figura1.png  used on input line 174.
+(pdftex.def)             Requested size: 328.82733pt x 197.29741pt.
+
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -895,18 +1024,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [14
 
-]
-Overfull \hbox (0.88135pt too wide) in paragraph at lines 194--205
- [][] 
+ <./assets/figura1.png>]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
  []
 
 
-
-[15
-
-
-
-]
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -915,10 +1043,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
+[15
+
+]
+
 [16
 
 
 ]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -929,7 +1071,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [17
 
+
 ]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -943,6 +1096,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
 (fancyhdr)                \setlength{\headheight}{36.09439pt}.
@@ -954,6 +1117,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 36.09439pt, for example:
 (fancyhdr)                \setlength{\headheight}{36.09439pt}.
@@ -961,6 +1134,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [20
+
+]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
+
+[21
 
 ] (./intervencion_empresarial.aux
 LaTeX Info: Redefining \sptext on input line 12.
@@ -978,18 +1172,18 @@ Package logreq Info: Writing requests to 'intervencion_empresarial.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21555 strings out of 473190
- 384031 string characters out of 5715801
- 1309321 words of memory out of 5000000
- 44532 multiletter control sequences out of 15000+600000
- 563438 words of font info for 51 fonts, out of 8000000 for 9000
+ 21641 strings out of 473190
+ 385876 string characters out of 5715801
+ 1314800 words of memory out of 5000000
+ 44609 multiletter control sequences out of 15000+600000
+ 563775 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,14n,81p,2501b,2813s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on intervencion_empresarial.pdf (21 pages, 151589 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on intervencion_empresarial.pdf (22 pages, 158671 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
+ 206 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

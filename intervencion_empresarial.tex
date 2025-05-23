@@ -1,7 +1,16 @@
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
-\usepackage[letterpaper, top=3cm, bottom=3cm, left=4cm, right=2.5cm]{geometry}
+
+% Márgenes estándar de 2.54 cm
+\usepackage[letterpaper, margin=2.54cm]{geometry}
+
+% Alineación a la izquierda sin justificar pero con sangría
+\usepackage{ragged2e}
+\RaggedRight
+\setlength{\parindent}{1.5em}  % Sangría de 5 espacios aprox.
+\let\raggedsection\centering   % Para mantener títulos centrados
+
 \usepackage{csquotes}
 \usepackage{graphicx}
 \usepackage{float}
@@ -12,7 +21,7 @@
 \usepackage{fancyhdr}
 \usepackage{tocloft}
 \usepackage[hidelinks]{hyperref}
-\usepackage{pdflscape} % Para páginas horizontales
+\usepackage{pdflscape}
 \usepackage{authblk}
 \usepackage[
 backend=biber,
@@ -22,58 +31,61 @@ url=true
 ]{biblatex}
 \addbibresource{intervencion_empresarial.bib}
 
-%Titulo y autor
-\title{Propuesta de implementación de metodología y oficina de proyectos 
-\(PO\) 
-para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.
-}
+% Formato de títulos de secciones y subsecciones
+\titleformat{\section}
+  {\normalfont\Large\bfseries\centering}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}
+  {\thesubsubsection}{1em}{}
+
+% Información general
+\title{Propuesta de implementación de metodología y oficina de proyectos \(PO\) para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.}
 \author{Mario Javier Serrano Bula}
 \date{\today}
-% director del trabajo
-\newcommand{\mydirector}{Nombre completo del director(a)} 
-% universidad
+
+% Variables personalizadas
+\newcommand{\mydirector}{Nombre completo del director(a)}
 \newcommand{\myuniversity}{Universidad EAN}
-% facultad
 \newcommand{\myfaculty}{Ingeniería}
-% programa
-\newcommand{\myprogram}{Maestria en Gerencia de Proyectos}
-% ciudad
+\newcommand{\myprogram}{Maestría en Gerencia de Proyectos}
 \newcommand{\mycity}{Bogotá, Colombia}
+\newcommand{\mytitle}{Propuesta de implementación de metodología y oficina de proyectos \(PO\) para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.}
 
-% ... Titulo del trabajo
-\newcommand{\mytitle}{Propuesta de implementación de metodología y oficina de proyectos 
-\(PO\) 
-para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.
-}
-
-\onehalfspacing
+% Configuración general
+\onehalfspacing  % ← Esta línea activa el interlineado 1.5 en todo el documento
 \pagestyle{fancy}
 \fancyhf{}
 \lhead{\footnotesize
   \begin{minipage}[t]{0.8\textwidth}
       \mytitle
   \end{minipage}
-}% Encabezado izquierdo
-\rhead{\thepage}                           % Encabezado derecho con el número de página
+}
+\rhead{\thepage}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 
-% Ocultar los títulos de listas
+% Ocultar títulos de listas
 \addto\captionsspanish{
   \renewcommand{\listfigurename}{}
   \renewcommand{\listtablename}{}
 }
 
 \newcommand{\chapterbreak}{\clearpage \thispagestyle{fancy}}
+\setlength{\headsep}{1.5cm}
 
 \begin{document}
-% --------- Portada ---------
-% Portada con título y autor
+
+% Portada
 \begin{titlepage}
 \makeatletter
 \@title\\[3cm]
 \@author\\
 \makeatother
-
 \vfill
 \begin{flushleft}
 \myuniversity\\
@@ -83,18 +95,14 @@ para la gestión de proyectos de tecnología y control industrial en la empresa 
 \today
 \end{flushleft}
 \end{titlepage}
-% --------- Fin Portada ---------
 
-% --------- Página de Presentacion---------
+% Página de presentación
 \chapterbreak
 \begin{center}
 \mytitle\\[2cm]
-
 Trabajo de grado presentado como requisito para optar al título de: Magíster en Gerencia de Proyectos\\[2cm]
-
 Director: \mydirector\\[2cm]
 Modalidad: Trabajo Dirigido\\[1.5cm]
-
 \vfill
 \myuniversity\\
 \myfaculty\\
@@ -102,21 +110,23 @@ Modalidad: Trabajo Dirigido\\[1.5cm]
 \mycity\\
 \today
 \end{center}
-% --------- Fin Página de Presentacion---------
 
+% Página de aceptación
 \chapterbreak
-\section*{Nota de Aceptación}
+\section*{}
 \input{sections/aceptacion.tex}
 
+% Dedicatoria
 \chapterbreak
-
 \section*{Dedicatoria}
 \input{sections/dedicatoria.tex}
 
+% Agradecimientos
 \chapterbreak
 \section*{Agradecimientos}
 \input{sections/agradecimientos.tex}
 
+% Resumen y Abstract
 \chapterbreak
 \section*{Resumen}
 \input{sections/resumen.tex}
@@ -125,51 +135,55 @@ Modalidad: Trabajo Dirigido\\[1.5cm]
 \section*{Abstract}
 \input{sections/abstract.tex}
 
-% Tabla de contenidos
+% Índice
 \chapterbreak
 \tableofcontents
 \newpage
-
-% Listas de figuras y tablas
 \listoffigures
 \listoftables
 
+% CONTENIDO
+
+% Introducción
 \chapterbreak
 \section{Introducción}
 \input{sections/introduccion.tex}
 
+% Objetivos
 \chapterbreak
 \section{Objetivos}
 \input{sections/objetivos.tex}
 
+% Justificación
 \chapterbreak
-\section{Justificaci\'on}
-Desarrollar argumentos que sustenten la relevancia, utilidad y viabilidad del proyecto \parencite{hawking2010}.
+\section{Justificación}
+\input{sections/justificacion.tex}
 
+% Marco Institucional
 \chapterbreak
-
 \section{Marco Institucional}
-Descripci\'on de la organizaci\'on, su misi\'on, visi\'on, estructura, productos/servicios, sector econ\'omico, etc.
+Descripción de la organización, su misión, visión, estructura, productos/servicios, sector económico, etc.
 
+% Marco de Referencia
 \chapterbreak
-
 \section{Marco de Referencia}
-\subsection*{Antecedentes y teor\'ias relevantes}
+\subsection*{Antecedentes y teorías relevantes}
 \subsection*{Figuras}
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{assets/figura1.png}
-\caption{Esquema de fuerzas y su relaci\'on. Fuente: adaptado de Hawking (2010)}
+\caption{Esquema de fuerzas y su relación. Fuente: adaptado de Hawking (2010)}
 \end{figure}
+
 \subsection*{Tablas}
 \begin{table}[H]
 \centering
-\caption{Participaci\'on de las energías renovables primarias}
+\caption{Participación de las energías renovables primarias}
 \begin{tabular}{|l|l|l|}
 \hline
 Región & Energías renovables & Biomasa \\
 \hline
-Latinoam\'erica & 28.9\% & 62.4\% \\
+Latinoamérica & 28.9\% & 62.4\% \\
 Colombia & 27.7\% & 54.4\% \\
 Alemania & 3.8\% & 65.8\% \\
 Mundial & 13.1\% & 79.4\% \\
@@ -177,12 +191,10 @@ Mundial & 13.1\% & 79.4\% \\
 \end{tabular}
 \end{table}
 
+% Diseño Metodológico
 \chapterbreak
-
 \section{Diseño Metodológico}
-Describir el enfoque, fases, metodolog\'ia de diagn\'ostico \cite{gonzalezModeloAdministracionProyectos2012} y propuesta de intervenci\'on.
-
-\chapterbreak
+Describir el enfoque, fases, metodología de diagnóstico \cite{gonzalezModeloAdministracionProyectos2012} y propuesta de intervención.
 
 % Página horizontal con tabla amplia
 \clearpage
@@ -204,32 +216,33 @@ Perú & 250 & 300 & 60 & 1500 & 20 & 2130 \\
 \end{tabular}
 \end{table}
 \end{landscape}
+
+% Diagnóstico Organizacional
 \chapterbreak
+\section{Diagnóstico Organizacional}
+\subsection*{Procesamiento estadístico de datos}
+\subsection*{Análisis de resultados}
 
-\section{Diagn\'ostico Organizacional}
-\subsection*{Procesamiento estad\'istico de datos}
-\subsection*{An\'alisis de resultados}
-
+% Plan de Intervención
 \chapterbreak
+\section{Plan de Intervención}
+Describir la propuesta de mejora/intervención a implementar.
 
-\section{Plan de Intervenci\'on}
-Describir la propuesta de mejora/intervenci\'on a implementar.
-
+% Conclusiones y Recomendaciones
 \chapterbreak
-
 \section{Conclusiones y Recomendaciones}
 \subsection*{Conclusiones}
 \subsection*{Recomendaciones}
 
+% Referencias
 \chapterbreak
-
 \section*{Referencias}
 \printbibliography[heading=bibintoc]
 
+% Anexos
 \chapterbreak
-
 \appendix
 \section*{Anexo A. Nombre del anexo}
-Contenido del anexo en esta seccion, puede ser reconocido de forma automatica
+Contenido del anexo en esta sección, puede ser reconocido de forma automática
 
 \end{document}

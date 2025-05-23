@@ -1,3 +1,7 @@
 {
-    "cSpell.language": "en,es-ES"
+    "cSpell.language": "en,es-ES",
+    "latex-workshop.formatting.latex": "latexindent",
+    "notebook.defaultFormatter": "James-Yu.latex-workshop",
+    "editor.wordWrap": "on",
+    "chat.editor.wordWrap": "on"
 }
