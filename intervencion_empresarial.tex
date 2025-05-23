@@ -13,6 +13,7 @@
 \usepackage{tocloft}
 \usepackage[hidelinks]{hyperref}
 \usepackage{pdflscape} % Para páginas horizontales
+\usepackage{authblk}
 \usepackage[
 backend=biber,
 style=apa,
@@ -21,10 +22,38 @@ url=true
 ]{biblatex}
 \addbibresource{intervencion_empresarial.bib}
 
+%Titulo y autor
+\title{Propuesta de implementación de metodología y oficina de proyectos 
+\(PO\) 
+para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.
+}
+\author{Mario Javier Serrano Bula}
+\date{\today}
+% director del trabajo
+\newcommand{\mydirector}{Nombre completo del director(a)} 
+% universidad
+\newcommand{\myuniversity}{Universidad EAN}
+% facultad
+\newcommand{\myfaculty}{Ingeniería}
+% programa
+\newcommand{\myprogram}{Maestria en Gerencia de Proyectos}
+% ciudad
+\newcommand{\mycity}{Bogotá, Colombia}
+
+% ... Titulo del trabajo
+\newcommand{\mytitle}{Propuesta de implementación de metodología y oficina de proyectos 
+\(PO\) 
+para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.
+}
+
 \onehalfspacing
 \pagestyle{fancy}
 \fancyhf{}
-\lhead{Trabajo de grado - Universidad EAN} % Encabezado izquierdo
+\lhead{\footnotesize
+  \begin{minipage}[t]{0.8\textwidth}
+      \mytitle
+  \end{minipage}
+}% Encabezado izquierdo
 \rhead{\thepage}                           % Encabezado derecho con el número de página
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 
@@ -37,39 +66,43 @@ url=true
 \newcommand{\chapterbreak}{\clearpage \thispagestyle{fancy}}
 
 \begin{document}
-
+% --------- Portada ---------
+% Portada con título y autor
 \begin{titlepage}
-\centering
-\vspace*{1cm}
-\textbf{\LARGE Título del Trabajo de Grado}\\[1.5cm]
+\makeatletter
+\@title\\[3cm]
+\@author\\
+\makeatother
 
-\textbf{\Large Nombres y apellidos completos de los autores}\\[2cm]
-
-Universidad EAN\\
-Facultad\\
-Programa\\
-Ciudad, Colombia\\
-d\'ia/mes/a\~no
+\vfill
+\begin{flushleft}
+\myuniversity\\
+\myfaculty\\
+\myprogram\\
+\mycity\\
+\today
+\end{flushleft}
 \end{titlepage}
+% --------- Fin Portada ---------
 
+% --------- Página de Presentacion---------
 \chapterbreak
-
 \begin{center}
-\textbf{\Large Título del Trabajo de Grado}\\[1.5cm]
+\mytitle\\[2cm]
 
-Nombres y apellidos completos de los autores\\[1cm]
+Trabajo de grado presentado como requisito para optar al título de: Magíster en Gerencia de Proyectos\\[2cm]
 
-Trabajo de grado presentado como requisito para optar al título de: Magíster en Gerencia de Proyectos\\[0.5cm]
-
-Director (a): Nombre completo del director(a)\\
+Director: \mydirector\\[2cm]
 Modalidad: Trabajo Dirigido\\[1.5cm]
 
-Universidad EAN\\
-Facultad\\
-Programa\\
-Ciudad, Colombia\\
-d\'ia/mes/a\~no
+\vfill
+\myuniversity\\
+\myfaculty\\
+\myprogram\\
+\mycity\\
+\today
 \end{center}
+% --------- Fin Página de Presentacion---------
 
 \chapterbreak
 \section*{Nota de Aceptación}

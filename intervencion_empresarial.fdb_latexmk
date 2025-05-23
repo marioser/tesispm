@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber intervencion_empresarial"] 1748014680.56962 "intervencion_empresarial.bcf" "intervencion_empresarial.bbl" "intervencion_empresarial" 1748014887.53043 0
-  "intervencion_empresarial.bcf" 1748014887.46335 133893 f07d12f2efed81ad2d5d5b138866852a "pdflatex"
+["biber intervencion_empresarial"] 0 "intervencion_empresarial.bcf" "intervencion_empresarial.bbl" "intervencion_empresarial" 1748023811.04819 -1
+  "intervencion_empresarial.bcf" 1748023810.99188 133893 f07d12f2efed81ad2d5d5b138866852a "pdflatex"
   "intervencion_empresarial.bib" 1747968267.69528 10568 1289131ee9dd522724ea9bec25422695 ""
   (generated)
   "intervencion_empresarial.bbl"
   "intervencion_empresarial.blg"
   (rewritten before read)
-["pdflatex"] 1748014886.37127 "/Users/maser/Documents/Tesis/intervencion_empresarial.tex" "intervencion_empresarial.pdf" "intervencion_empresarial" 1748014887.53082 0
-  "/Users/maser/Documents/Tesis/intervencion_empresarial.tex" 1748014886.20848 4709 83ca9847358d9314dc359bcfd343bdb3 ""
+["pdflatex"] 1748023810.0938 "/Users/maser/Documents/Tesis/intervencion_empresarial.tex" "intervencion_empresarial.pdf" "intervencion_empresarial" 1748023811.04885 0
+  "/Users/maser/Documents/Tesis/intervencion_empresarial.tex" 1748023807.94226 5581 f3f57f6ba6f3cc720a6c34d0d5e56fb4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -22,6 +22,9 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -97,6 +100,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty" 1284153563 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty" 1667072951 6572 ea530fbbe537629fd97736d33babc07d ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty" 1667072951 2224 1230ab76aa62221ccbd90bca8c8c015e ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/preprint/authblk.sty" 1368488610 7016 985a983ce041cc8959cd31133cba0244 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
@@ -109,14 +113,14 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "assets/figura1.png" 1747820236 67417 7432ca628a4412d2067440bfb1d3e219 ""
-  "intervencion_empresarial.aux" 1748014887.45924 2805 da7da31dba206434504dc146ba681a35 "pdflatex"
-  "intervencion_empresarial.bbl" 1748014682.0491 12390 eff148d1272a82fd1752570f787a84b8 "biber intervencion_empresarial"
-  "intervencion_empresarial.lof" 1748014887.46446 179 fd8af9f8268b72b6126b4c05cb80ff8c "pdflatex"
-  "intervencion_empresarial.lot" 1748014887.46452 274 e64bd3c2c27f3183e44448da13854962 "pdflatex"
-  "intervencion_empresarial.out" 1748014887.46144 1366 b808c6ae0cdd66bdca3251240b979bf3 "pdflatex"
-  "intervencion_empresarial.run.xml" 1748014887.46419 2513 05add88fc16a0b278972ba2bf2e31432 "pdflatex"
-  "intervencion_empresarial.tex" 1748014886.20848 4709 83ca9847358d9314dc359bcfd343bdb3 ""
-  "intervencion_empresarial.toc" 1748014887.46439 817 b741031144667a55a7062487567f9afd "pdflatex"
+  "intervencion_empresarial.aux" 1748023810.9891 2805 da7da31dba206434504dc146ba681a35 "pdflatex"
+  "intervencion_empresarial.bbl" 1748019910.34944 12390 eff148d1272a82fd1752570f787a84b8 "biber intervencion_empresarial"
+  "intervencion_empresarial.lof" 1748023810.99275 179 fd8af9f8268b72b6126b4c05cb80ff8c "pdflatex"
+  "intervencion_empresarial.lot" 1748023810.99277 274 e64bd3c2c27f3183e44448da13854962 "pdflatex"
+  "intervencion_empresarial.out" 1748023810.99101 1366 b808c6ae0cdd66bdca3251240b979bf3 "pdflatex"
+  "intervencion_empresarial.run.xml" 1748023810.99268 2513 05add88fc16a0b278972ba2bf2e31432 "pdflatex"
+  "intervencion_empresarial.tex" 1748023807.94226 5581 f3f57f6ba6f3cc720a6c34d0d5e56fb4 ""
+  "intervencion_empresarial.toc" 1748023810.99274 817 b741031144667a55a7062487567f9afd "pdflatex"
   "sections/abstract.tex" 1748014752.6775 109 f54403e0193018878ced81ac37447c6b ""
   "sections/aceptacion.tex" 1748014592.4694 121 94ca797639b5e19957d7a479b7c4feef ""
   "sections/agradecimientos.tex" 1748014521.04704 104 e825eec54d52a174a7a5b874fe3456a8 ""

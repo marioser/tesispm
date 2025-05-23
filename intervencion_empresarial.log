@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 MAY 2025 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 MAY 2025 13:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -325,73 +325,80 @@ Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip103
+\@affilsep=\skip104
+\c@Maxaffil=\count304
+\c@authors=\count305
+\c@affil=\count306
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count304
+\lrq@indent=\count307
  (/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count305
-\c@listtotal=\count306
-\c@listcount=\count307
-\c@liststart=\count308
-\c@liststop=\count309
-\c@citecount=\count310
-\c@citetotal=\count311
-\c@multicitecount=\count312
-\c@multicitetotal=\count313
-\c@instcount=\count314
-\c@maxnames=\count315
-\c@minnames=\count316
-\c@maxitems=\count317
-\c@minitems=\count318
-\c@citecounter=\count319
-\c@maxcitecounter=\count320
-\c@savedcitecounter=\count321
-\c@uniquelist=\count322
-\c@uniquename=\count323
-\c@refsection=\count324
-\c@refsegment=\count325
-\c@maxextratitle=\count326
-\c@maxextratitleyear=\count327
-\c@maxextraname=\count328
-\c@maxextradate=\count329
-\c@maxextraalpha=\count330
-\c@abbrvpenalty=\count331
-\c@highnamepenalty=\count332
-\c@lownamepenalty=\count333
-\c@maxparens=\count334
-\c@parenlevel=\count335
-\blx@tempcnta=\count336
-\blx@tempcntb=\count337
-\blx@tempcntc=\count338
-\c@blx@maxsection=\count339
-\blx@maxsegment@0=\count340
-\blx@notetype=\count341
-\blx@parenlevel@text=\count342
-\blx@parenlevel@foot=\count343
-\blx@sectionciteorder@0=\count344
-\blx@sectionciteorderinternal@0=\count345
-\blx@entrysetcounter=\count346
-\blx@biblioinstance=\count347
-\labelnumberwidth=\skip103
-\labelalphawidth=\skip104
-\biblabelsep=\skip105
-\bibitemsep=\skip106
-\bibnamesep=\skip107
-\bibinitsep=\skip108
-\bibparsep=\skip109
-\bibhang=\skip110
+\c@tabx@nest=\count308
+\c@listtotal=\count309
+\c@listcount=\count310
+\c@liststart=\count311
+\c@liststop=\count312
+\c@citecount=\count313
+\c@citetotal=\count314
+\c@multicitecount=\count315
+\c@multicitetotal=\count316
+\c@instcount=\count317
+\c@maxnames=\count318
+\c@minnames=\count319
+\c@maxitems=\count320
+\c@minitems=\count321
+\c@citecounter=\count322
+\c@maxcitecounter=\count323
+\c@savedcitecounter=\count324
+\c@uniquelist=\count325
+\c@uniquename=\count326
+\c@refsection=\count327
+\c@refsegment=\count328
+\c@maxextratitle=\count329
+\c@maxextratitleyear=\count330
+\c@maxextraname=\count331
+\c@maxextradate=\count332
+\c@maxextraalpha=\count333
+\c@abbrvpenalty=\count334
+\c@highnamepenalty=\count335
+\c@lownamepenalty=\count336
+\c@maxparens=\count337
+\c@parenlevel=\count338
+\blx@tempcnta=\count339
+\blx@tempcntb=\count340
+\blx@tempcntc=\count341
+\c@blx@maxsection=\count342
+\blx@maxsegment@0=\count343
+\blx@notetype=\count344
+\blx@parenlevel@text=\count345
+\blx@parenlevel@foot=\count346
+\blx@sectionciteorder@0=\count347
+\blx@sectionciteorderinternal@0=\count348
+\blx@entrysetcounter=\count349
+\blx@biblioinstance=\count350
+\labelnumberwidth=\skip105
+\labelalphawidth=\skip106
+\biblabelsep=\skip107
+\bibitemsep=\skip108
+\bibnamesep=\skip109
+\bibinitsep=\skip110
+\bibparsep=\skip111
+\bibhang=\skip112
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language91
-\c@mincomprange=\count348
-\c@maxcomprange=\count349
-\c@mincompwidth=\count350
+\c@mincomprange=\count351
+\c@maxcomprange=\count352
+\c@mincompwidth=\count353
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -404,98 +411,98 @@ File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count351
-\c@savedafterword=\count352
-\c@annotator=\count353
-\c@savedannotator=\count354
-\c@author=\count355
-\c@savedauthor=\count356
-\c@bookauthor=\count357
-\c@savedbookauthor=\count358
-\c@commentator=\count359
-\c@savedcommentator=\count360
-\c@editor=\count361
-\c@savededitor=\count362
-\c@editora=\count363
-\c@savededitora=\count364
-\c@editorb=\count365
-\c@savededitorb=\count366
-\c@editorc=\count367
-\c@savededitorc=\count368
-\c@foreword=\count369
-\c@savedforeword=\count370
-\c@holder=\count371
-\c@savedholder=\count372
-\c@introduction=\count373
-\c@savedintroduction=\count374
-\c@namea=\count375
-\c@savednamea=\count376
-\c@nameb=\count377
-\c@savednameb=\count378
-\c@namec=\count379
-\c@savednamec=\count380
-\c@translator=\count381
-\c@savedtranslator=\count382
-\c@shortauthor=\count383
-\c@savedshortauthor=\count384
-\c@shorteditor=\count385
-\c@savedshorteditor=\count386
-\c@narrator=\count387
-\c@savednarrator=\count388
-\c@execproducer=\count389
-\c@savedexecproducer=\count390
-\c@execdirector=\count391
-\c@savedexecdirector=\count392
-\c@with=\count393
-\c@savedwith=\count394
-\c@labelname=\count395
-\c@savedlabelname=\count396
-\c@institution=\count397
-\c@savedinstitution=\count398
-\c@lista=\count399
-\c@savedlista=\count400
-\c@listb=\count401
-\c@savedlistb=\count402
-\c@listc=\count403
-\c@savedlistc=\count404
-\c@listd=\count405
-\c@savedlistd=\count406
-\c@liste=\count407
-\c@savedliste=\count408
-\c@listf=\count409
-\c@savedlistf=\count410
-\c@location=\count411
-\c@savedlocation=\count412
-\c@organization=\count413
-\c@savedorganization=\count414
-\c@origlocation=\count415
-\c@savedoriglocation=\count416
-\c@origpublisher=\count417
-\c@savedorigpublisher=\count418
-\c@publisher=\count419
-\c@savedpublisher=\count420
-\c@language=\count421
-\c@savedlanguage=\count422
-\c@origlanguage=\count423
-\c@savedoriglanguage=\count424
-\c@citation=\count425
-\c@savedcitation=\count426
-\c@pageref=\count427
-\c@savedpageref=\count428
-\shorthandwidth=\skip111
-\shortjournalwidth=\skip112
-\shortserieswidth=\skip113
-\shorttitlewidth=\skip114
-\shortauthorwidth=\skip115
-\shorteditorwidth=\skip116
-\locallabelnumberwidth=\skip117
-\locallabelalphawidth=\skip118
-\localshorthandwidth=\skip119
-\localshortjournalwidth=\skip120
-\localshortserieswidth=\skip121
-\localshorttitlewidth=\skip122
-\localshortauthorwidth=\skip123
-\localshorteditorwidth=\skip124
+\c@afterword=\count354
+\c@savedafterword=\count355
+\c@annotator=\count356
+\c@savedannotator=\count357
+\c@author=\count358
+\c@savedauthor=\count359
+\c@bookauthor=\count360
+\c@savedbookauthor=\count361
+\c@commentator=\count362
+\c@savedcommentator=\count363
+\c@editor=\count364
+\c@savededitor=\count365
+\c@editora=\count366
+\c@savededitora=\count367
+\c@editorb=\count368
+\c@savededitorb=\count369
+\c@editorc=\count370
+\c@savededitorc=\count371
+\c@foreword=\count372
+\c@savedforeword=\count373
+\c@holder=\count374
+\c@savedholder=\count375
+\c@introduction=\count376
+\c@savedintroduction=\count377
+\c@namea=\count378
+\c@savednamea=\count379
+\c@nameb=\count380
+\c@savednameb=\count381
+\c@namec=\count382
+\c@savednamec=\count383
+\c@translator=\count384
+\c@savedtranslator=\count385
+\c@shortauthor=\count386
+\c@savedshortauthor=\count387
+\c@shorteditor=\count388
+\c@savedshorteditor=\count389
+\c@narrator=\count390
+\c@savednarrator=\count391
+\c@execproducer=\count392
+\c@savedexecproducer=\count393
+\c@execdirector=\count394
+\c@savedexecdirector=\count395
+\c@with=\count396
+\c@savedwith=\count397
+\c@labelname=\count398
+\c@savedlabelname=\count399
+\c@institution=\count400
+\c@savedinstitution=\count401
+\c@lista=\count402
+\c@savedlista=\count403
+\c@listb=\count404
+\c@savedlistb=\count405
+\c@listc=\count406
+\c@savedlistc=\count407
+\c@listd=\count408
+\c@savedlistd=\count409
+\c@liste=\count410
+\c@savedliste=\count411
+\c@listf=\count412
+\c@savedlistf=\count413
+\c@location=\count414
+\c@savedlocation=\count415
+\c@organization=\count416
+\c@savedorganization=\count417
+\c@origlocation=\count418
+\c@savedoriglocation=\count419
+\c@origpublisher=\count420
+\c@savedorigpublisher=\count421
+\c@publisher=\count422
+\c@savedpublisher=\count423
+\c@language=\count424
+\c@savedlanguage=\count425
+\c@origlanguage=\count426
+\c@savedoriglanguage=\count427
+\c@citation=\count428
+\c@savedcitation=\count429
+\c@pageref=\count430
+\c@savedpageref=\count431
+\shorthandwidth=\skip113
+\shortjournalwidth=\skip114
+\shortserieswidth=\skip115
+\shorttitlewidth=\skip116
+\shortauthorwidth=\skip117
+\shorteditorwidth=\skip118
+\locallabelnumberwidth=\skip119
+\locallabelalphawidth=\skip120
+\localshorthandwidth=\skip121
+\localshortjournalwidth=\skip122
+\localshortserieswidth=\skip123
+\localshorttitlewidth=\skip124
+\localshortauthorwidth=\skip125
+\localshorteditorwidth=\skip126
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
@@ -505,19 +512,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count429
-\c@textcitetotal=\count430
-\c@textcitemaxnames=\count431
-\c@biburlbigbreakpenalty=\count432
-\c@biburlbreakpenalty=\count433
-\c@biburlnumpenalty=\count434
-\c@biburlucpenalty=\count435
-\c@biburllcpenalty=\count436
+\c@textcitecount=\count432
+\c@textcitetotal=\count433
+\c@textcitemaxnames=\count434
+\c@biburlbigbreakpenalty=\count435
+\c@biburlbreakpenalty=\count436
+\c@biburlnumpenalty=\count437
+\c@biburlucpenalty=\count438
+\c@biburllcpenalty=\count439
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count437
+\c@smartand=\count440
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -527,8 +534,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count438
-\c@bbx:relatedtotal=\count439
+\c@bbx:relatedcount=\count441
+\c@bbx:relatedtotal=\count442
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
@@ -568,7 +575,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2025-01-18 L3 programming layer (loader) 
  (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count440
+\l__color_backend_stack_int=\count443
 \l__pdf_internal_box=\box60
 ))
 Package biblatex Info: ... and expl3
@@ -590,26 +597,26 @@ LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `intervencion_empresarial.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -647,16 +654,16 @@ LaTeX Info: Redefining \% on input line 39.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count441
+\scratchcounter=\count444
 \scratchdimen=\dimen171
 \scratchbox=\box61
-\nofMPsegments=\count442
-\nofMParguments=\count443
+\nofMPsegments=\count445
+\nofMParguments=\count446
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count444
+\MPscratchCnt=\count447
 \MPscratchDim=\dimen172
-\MPnumerator=\count445
-\makeMPintoPDFobject=\count446
+\MPnumerator=\count448
+\makeMPintoPDFobject=\count449
 \everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -667,7 +674,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 68.
  (./intervencion_empresarial.out) (./intervencion_empresarial.out)
 \@outlinefile=\write4
 \openout4 = `intervencion_empresarial.out'.
@@ -694,36 +701,51 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'intervencion_empresarial.bbl' found.
  (./intervencion_empresarial.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
+Package biblatex Info: Reference section=0 on input line 68.
+Package biblatex Info: Reference segment=0 on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 73.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
 
 
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 107.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 107.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 \chapterbreak
-                   [1
+l.107 \chapterbreak
+                    [1
 
 ] (./sections/aceptacion.tex)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [2
 
@@ -731,10 +753,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [3
 
@@ -742,10 +764,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [4
 
@@ -753,10 +775,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [5
 
@@ -764,10 +786,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [6
 
@@ -775,12 +797,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
 )
 \tf@toc=\write5
 \openout5 = `intervencion_empresarial.toc'.
@@ -811,10 +827,10 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [9
 
@@ -822,10 +838,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [10
 
@@ -833,10 +849,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [11
 
@@ -844,27 +860,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [12
 
 ]
-<assets/figura1.png, id=119, 722.7pt x 433.62pt>
+<assets/figura1.png, id=122, 722.7pt x 433.62pt>
 File: assets/figura1.png Graphic file (type png)
 <use assets/figura1.png>
-Package pdftex.def Info: assets/figura1.png  used on input line 130.
+Package pdftex.def Info: assets/figura1.png  used on input line 161.
 (pdftex.def)             Requested size: 300.54515pt x 180.32608pt.
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [13
 
@@ -872,15 +888,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [14
 
 ]
-Overfull \hbox (0.88135pt too wide) in paragraph at lines 163--174
+Overfull \hbox (0.88135pt too wide) in paragraph at lines 194--205
  [][] 
  []
 
@@ -894,10 +910,10 @@ Overfull \hbox (0.88135pt too wide) in paragraph at lines 163--174
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [16
 
@@ -906,10 +922,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [17
 
@@ -917,10 +933,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [18
 
@@ -928,10 +944,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [19
 
@@ -939,10 +955,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 36.09439pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.09439pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [20
 
@@ -962,18 +978,18 @@ Package logreq Info: Writing requests to 'intervencion_empresarial.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21457 strings out of 473190
- 382647 string characters out of 5715801
- 1307952 words of memory out of 5000000
- 44438 multiletter control sequences out of 15000+600000
- 563745 words of font info for 52 fonts, out of 8000000 for 9000
+ 21555 strings out of 473190
+ 384031 string characters out of 5715801
+ 1309321 words of memory out of 5000000
+ 44532 multiletter control sequences out of 15000+600000
+ 563438 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,81p,2501b,2813s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on intervencion_empresarial.pdf (21 pages, 116228 bytes).
+ 75i,14n,81p,2501b,2813s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on intervencion_empresarial.pdf (21 pages, 151589 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
+ 199 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
