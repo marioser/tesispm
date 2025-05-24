@@ -1,0 +1,47 @@
+# Archivos auxiliares de LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Archivos de bibliografía
+*.bcf
+*.run.xml
+
+# Archivos de compilación
+*.dvi
+*.pdf
+
+# Archivos temporales
+*~
+*.bak
+*.tmp
+
+# Carpetas de VSCode y LaTeX Workshop
+.vscode/
+.latexmk/
+
+# Archivos de MacOS
+.DS_Store
