@@ -29,7 +29,7 @@ style=apa,
 sortcites,
 url=true
 ]{biblatex}
-\addbibresource{intervencion_empresarial.bib}
+\addbibresource{ref.bib}
 
 % Formato de títulos de secciones y subsecciones
 \titleformat{\section}
@@ -40,9 +40,18 @@ url=true
   {\normalfont\large\bfseries}
   {\thesubsection}{1em}{}
 
-\titleformat{\subsubsection}
+\titleformat{\subsubsection}[hang]
   {\normalfont\normalsize\bfseries}
   {\thesubsubsection}{1em}{}
+
+\titleformat{\paragraph}
+  {\normalfont\normalsize\itshape}
+  {\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+  {3.5em}{1.5ex plus .2ex minus .2ex}{.5em}  
+
+\titlespacing*{\subsubsection}{3em}{1.5ex plus 1ex minus .2ex}{.5em}
+
 
 % Información general
 \title{Propuesta de implementación de metodología y oficina de proyectos \(PO\) para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.}
@@ -58,7 +67,8 @@ url=true
 \newcommand{\mytitle}{Propuesta de implementación de metodología y oficina de proyectos \(PO\) para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.}
 
 % Configuración general
-\onehalfspacing  % ← Esta línea activa el interlineado 1.5 en todo el documento
+%\onehalfspacing  % ← Esta línea activa el interlineado 1.5 en todo el documento
+\setstretch{1.5}
 \pagestyle{fancy}
 \fancyhf{}
 \lhead{\footnotesize
@@ -77,6 +87,12 @@ url=true
 
 \newcommand{\chapterbreak}{\clearpage \thispagestyle{fancy}}
 \setlength{\headsep}{1.5cm}
+\setlength{\headheight}{36.1pt}
+\setlength{\parskip}{0.75em}  % Espacio vertical entre párrafos
+
+% Permitir numeración y visualización en el índice hasta el nivel 4 (paragraph)
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
 
 \begin{document}
 
@@ -162,80 +178,37 @@ Modalidad: Trabajo Dirigido\\[1.5cm]
 % Marco Institucional
 \chapterbreak
 \section{Marco Institucional}
-Descripción de la organización, su misión, visión, estructura, productos/servicios, sector económico, etc.
+\input{sections/marcoIntitucional.tex}
+
 
 % Marco de Referencia
 \chapterbreak
 \section{Marco de Referencia}
-\subsection*{Antecedentes y teorías relevantes}
-\subsection*{Figuras}
-\begin{figure}[H]
-\centering
-\includegraphics[width=0.7\textwidth]{assets/figura1.png}
-\caption{Esquema de fuerzas y su relación. Fuente: adaptado de Hawking (2010)}
-\end{figure}
-
-\subsection*{Tablas}
-\begin{table}[H]
-\centering
-\caption{Participación de las energías renovables primarias}
-\begin{tabular}{|l|l|l|}
-\hline
-Región & Energías renovables & Biomasa \\
-\hline
-Latinoamérica & 28.9\% & 62.4\% \\
-Colombia & 27.7\% & 54.4\% \\
-Alemania & 3.8\% & 65.8\% \\
-Mundial & 13.1\% & 79.4\% \\
-\hline
-\end{tabular}
-\end{table}
+\input{sections/marcoReferencia.tex}
 
 % Diseño Metodológico
 \chapterbreak
 \section{Diseño Metodológico}
-Describir el enfoque, fases, metodología de diagnóstico \cite{gonzalezModeloAdministracionProyectos2012} y propuesta de intervención.
-
-% Página horizontal con tabla amplia
-\clearpage
-\thispagestyle{empty}
-\begin{landscape}
-\begin{table}[H]
-\centering
-\caption{Comparativo de tecnologías por país}
-\begin{tabular}{|l|c|c|c|c|c|c|}
-\hline
-País & Solar (MW) & Eólica (MW) & Biomasa (MW) & Hidro (MW) & Geotérmica (MW) & Total Renovables (MW) \\
-\hline
-Colombia & 100 & 200 & 50 & 1100 & 0 & 1450 \\
-Brasil & 500 & 300 & 100 & 2000 & 50 & 2950 \\
-Chile & 400 & 450 & 80 & 1200 & 30 & 2160 \\
-México & 600 & 700 & 120 & 1800 & 100 & 3320 \\
-Perú & 250 & 300 & 60 & 1500 & 20 & 2130 \\
-\hline
-\end{tabular}
-\end{table}
-\end{landscape}
+\input{sections/disenoMetodolico.tex}
 
 % Diagnóstico Organizacional
 \chapterbreak
 \section{Diagnóstico Organizacional}
-\subsection*{Procesamiento estadístico de datos}
-\subsection*{Análisis de resultados}
+\input{sections/diagnosticoOrganizacional.tex}
 
 % Plan de Intervención
 \chapterbreak
 \section{Plan de Intervención}
-Describir la propuesta de mejora/intervención a implementar.
+\input{sections/planIntervencion.tex}
 
 % Conclusiones y Recomendaciones
 \chapterbreak
 \section{Conclusiones y Recomendaciones}
-\subsection*{Conclusiones}
-\subsection*{Recomendaciones}
+\input{sections/conclusiones.tex}
 
 % Referencias
 \chapterbreak
+\def\refname{}
 \section*{Referencias}
 \printbibliography[heading=bibintoc]
 

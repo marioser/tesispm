@@ -3,5 +3,62 @@
     "latex-workshop.formatting.latex": "latexindent",
     "notebook.defaultFormatter": "James-Yu.latex-workshop",
     "editor.wordWrap": "on",
-    "chat.editor.wordWrap": "on"
+    "chat.editor.wordWrap": "on",
+    "editor.fontFamily": "JetBrains Mono",
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "cSpell.words": [
+        "Gido",
+        "IPMA",
+        "PMBOK"
+    ],
+    "latex-workshop.latex.tools": [
+    {
+        "name": "latexmk",
+        "command": "latexmk",
+        "args": [
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "-pdf",
+            "-bibtex",
+            "%DOC%"
+        ]
+    },
+    {
+        "name": "pdflatex",
+        "command": "pdflatex",
+        "args": [
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "%DOC%"
+        ]
+    },
+    {
+        "name": "biber",
+        "command": "biber",
+        "args": [
+            "%DOCFILE%"
+        ]
+    }
+],
+"latex-workshop.latex.recipes": [
+    {
+        "name": "latexmk (biber)",
+        "tools": [
+            "latexmk"
+        ]
+    },
+    {
+        "name": "pdflatex -> biber -> pdflatex*2",
+        "tools": [
+            "pdflatex",
+            "biber",
+            "pdflatex",
+            "pdflatex"
+        ]
+    }
+],
+"latex-workshop.latex.bibtexFormatter": "biber"
 }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 MAY 2025 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  27 MAY 2025 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -613,26 +613,26 @@ LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `intervencion_empresarial.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -651,7 +651,7 @@ LaTeX Info: Redefining \% on input line 81.
 * \oddsidemargin=-0.00018pt
 * \evensidemargin=-0.00018pt
 * \topmargin=-37.00018pt
-* \headheight=12.0pt
+* \headheight=36.1pt
 * \headsep=42.67912pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -690,7 +690,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 81.
+Package hyperref Info: Link coloring OFF on input line 97.
  (./intervencion_empresarial.out) (./intervencion_empresarial.out)
 \@outlinefile=\write4
 \openout4 = `intervencion_empresarial.out'.
@@ -717,14 +717,14 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'intervencion_empresarial.bbl' found.
  (./intervencion_empresarial.bbl)
-Package biblatex Info: Reference section=0 on input line 81.
-Package biblatex Info: Reference segment=0 on input line 81.
+Package biblatex Info: Reference section=0 on input line 97.
+Package biblatex Info: Reference segment=0 on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 86.
+(Font)              <12> on input line 102.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 86.
+(Font)              <8> on input line 102.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 86.
+(Font)              <6> on input line 102.
 
 
 [1
@@ -732,9 +732,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 115.
+(Font)              <7> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 115.
+(Font)              <5> on input line 131.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
@@ -746,17 +746,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.115 \chapterbreak
+l.131 \chapterbreak
                     [1
 
 ] (./sections/aceptacion.tex)
@@ -770,13 +763,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [2
 
@@ -792,13 +778,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
 [3
 
 ] (./sections/agradecimientos.tex)
@@ -812,13 +791,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [4
 
@@ -834,13 +806,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
 [5
 
 ] (./sections/abstract.tex)
@@ -855,28 +820,33 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
 [6
 
 ] (./intervencion_empresarial.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+
+
+[7
+
+])
 \tf@toc=\write5
 \openout5 = `intervencion_empresarial.toc'.
 
 
 
-[7
 
-] (./intervencion_empresarial.lof
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[8] (./intervencion_empresarial.lof
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -894,7 +864,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-[8] (./sections/introduccion.tex)
+[9] (./sections/introduccion.tex)
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -905,38 +875,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
-[9
-
-] (./sections/objetivos.tex)
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [10
 
-] (./sections/justificacion.tex
+] (./sections/objetivos.tex
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -947,17 +889,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [11
 
-{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+])
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -969,14 +904,16 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
+[12] (./sections/justificacion.tex
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
+LaTeX Warning: Citation 'castrodiazPropuestaDisenoMetodologia2023' on page 13 undefined on input line 1.
 
-[12]
+
+Overfull \hbox (85.69855pt too wide) in paragraph at lines 1--2
+\OT1/cmr/m/n/12 prin-ci-pal-men-te por la fal-ta de un mar-co es-tan-da-ri-za-do. ([])  
+ []
+
+
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -987,23 +924,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [13
 
-]
-<assets/figura1.png, id=125, 722.7pt x 433.62pt>
-File: assets/figura1.png Graphic file (type png)
-<use assets/figura1.png>
-Package pdftex.def Info: assets/figura1.png  used on input line 174.
-(pdftex.def)             Requested size: 328.82733pt x 197.29741pt.
-
+])
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1015,16 +939,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
+[14{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./sections/marcoIntitucional.tex
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
+LaTeX Warning: Citation 'anifcentrodeestudioseconomicosRetosOportunidadesPymes2021' on page 15 undefined on input line 3.
 
-[14
 
- <./assets/figura1.png>]
+LaTeX Warning: Citation 'aikhmadi2022' on page 15 undefined on input line 5.
+
+
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1035,22 +957,22 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [15
 
 ]
 
-[16
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
 
 
-]
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[16]
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1062,17 +984,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
-[17
-
-
-]
+[17])
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1084,16 +996,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
-[18
-
-]
+[18] (./sections/marcoReferencia.tex
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1104,13 +1007,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
 [19
 
@@ -1126,14 +1022,161 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
+[20]
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
 
-[20
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[21]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[22]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[23]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[24]
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[25])
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[26] (./sections/disenoMetodolico.tex
+Overfull \hbox (28.45953pt too wide) in paragraph at lines 4--16
+ [][] 
+ []
+
+)
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[27
+
+] (./sections/diagnosticoOrganizacional.tex)
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[28
+
+] (./sections/planIntervencion.tex)
+Overfull \hbox (4.05637pt too wide) in paragraph at lines 1--203
+[]\OT1/cmr/m/n/12 Define un plan de in-ter-ven-ci^^Son pa-ra la em-pre-sa, con ba-se en los re-sul-ta-dos del diagn^^Sosti- 
+ []
+
+
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[29
+
+] (./sections/conclusiones.tex)
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[30
+
+]
+
+LaTeX Warning: Empty bibliography on input line 213.
+
+
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]\OT1/cmr/m/n/10 Propuesta de im-ple-men-ta-ci^^Son de me-to-do-log^^S^^Pa y ofi-ci-na de pro-yec-tos $\OML/cmm/m/it/10 PO$ \OT1/cmr/m/n/10 pa-ra la ges-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
+ []
+
+[31
 
 ]
 
@@ -1147,14 +1190,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/cmr/m/n/10 ti^^Son de pro-yec-tos de tec-no-log^^S^^Pa y con-trol in-dus-trial en la em-pre-sa S&G So-lu-cio-nes de
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 36.09439pt, for example:
-(fancyhdr)                \setlength{\headheight}{36.09439pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-24.09439pt}.
-
-[21
+[32
 
 ] (./intervencion_empresarial.aux
 LaTeX Info: Redefining \sptext on input line 12.
@@ -1165,25 +1201,34 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `intervencion_empresarial.out' has not changed.
-(rerunfilecheck)             Checksum: B808C6AE0CDD66BDCA3251240B979BF3;1366.
+(rerunfilecheck)             Checksum: 08393938CE466D8FC7257EEC6179D69A;8674.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                intervencion_empresarial
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'intervencion_empresarial.run.xml'.
 \openout1 = `intervencion_empresarial.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21641 strings out of 473190
- 385876 string characters out of 5715801
- 1314800 words of memory out of 5000000
- 44609 multiletter control sequences out of 15000+600000
+ 21725 strings out of 473190
+ 387080 string characters out of 5715801
+ 1314794 words of memory out of 5000000
+ 44625 multiletter control sequences out of 15000+600000
  563775 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,14n,81p,2501b,2813s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,81p,1573b,2813s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on intervencion_empresarial.pdf (22 pages, 158671 bytes).
+Output written on intervencion_empresarial.pdf (33 pages, 134495 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 467 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 417 words of extra memory for PDF output out of 10000 (max. 10000000)
 
