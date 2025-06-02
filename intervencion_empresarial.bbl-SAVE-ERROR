@@ -1,0 +1,511 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{aikhmadi2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d59e7fac75cc6f2d4b14d5daaef2ac1}{%
+           family={Akhmadi},
+           familyi={A\bibinitperiod},
+           given={Saltanat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94fa52be2584310b8f302ebb750c3e75}{%
+           family={Tsakalerou},
+           familyi={T\bibinitperiod},
+           given={Mariza},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3849837c62245395d722f7e427e677fb}
+      \strng{fullhash}{3849837c62245395d722f7e427e677fb}
+      \strng{fullhashraw}{3849837c62245395d722f7e427e677fb}
+      \strng{bibnamehash}{3849837c62245395d722f7e427e677fb}
+      \strng{authorbibnamehash}{3849837c62245395d722f7e427e677fb}
+      \strng{authornamehash}{3849837c62245395d722f7e427e677fb}
+      \strng{authorfullhash}{3849837c62245395d722f7e427e677fb}
+      \strng{authorfullhashraw}{3849837c62245395d722f7e427e677fb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Knowledge has emerged as a key commodity in smart manufacturing and as a critical resource for innovation and entrepreneurship in Industry 4.0. Innovative firms develop competitive advantages through knowledge exploitation and exploration, whether acquired externally or developed internally. Knowledge management, that is the management of the processes of knowledge creation, sharing and storage, is essential for effective innovation. Software tools to support knowledge management have had limited success in their attempt to address equally well a multitude of sources of knowledge. The data-driven analysis of this paper, however, demonstrates that knowledge acquisition is largely focused within the firm and thus the integrative perspective of considering both internal and external sources of knowledge might be an impediment for the development of appropriate supporting technologies. In this context, the focus should shift to knowledge elicitation and the corresponding development of tools to support it within the firm.}
+      \field{day}{1}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{3rd {{International Conference}} on {{Industry}} 4.0 and {{Smart Manufacturing}}}
+      \field{shortjournal}{Procedia Computer Science}
+      \field{title}{Knowledge Acquisition, Elicitation, and Management in Innovative Firms}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{200}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{91\bibrangedash 100}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.procs.2022.01.208
+      \endverb
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/7LL3M9CN/S1877050922002174.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050922002174
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050922002174
+      \endverb
+      \keyw{empresas innovadoras,gestion de conocimientos,innovacion,knowledge acquisition,knowledge elicitation,Knowledge management}
+    \endentry
+    \entry{anifcentrodeestudioseconomicosRetosOportunidadesPymes2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53aaef56099bfd954feec575e980d7c1}{%
+           family={{ANIF Centro de Estudios Económicos}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Retos y oportunidades de las pymes anif comentario economico del dia.}%
+      }
+      \strng{namehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{fullhash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{fullhashraw}{53aaef56099bfd954feec575e980d7c1}
+      \strng{bibnamehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authorbibnamehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authornamehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authorfullhash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authorfullhashraw}{53aaef56099bfd954feec575e980d7c1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{spanish}
+      \field{month}{9}
+      \field{note}{\begin{quotation} Retos y oportunidades de las Pymes: ANIF – Comentario Económico del Día \end{quotation}}
+      \field{title}{Retos y oportunidades de las pymes anif comentario economico del dia.}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/PQYI5QED/ANIF Centro de Estudios Económicos - 2021 - Retos y oportunidades de las pymes anif comentario economico del dia..pdf;/Users/maser/Zotero/storage/HSPTXMHL/pyme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.anif.com.co/file-tag/pyme/
+      \endverb
+      \verb{url}
+      \verb https://www.anif.com.co/file-tag/pyme/
+      \endverb
+    \endentry
+    \entry{juhreManagingInternationalCrosscultural2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=db18bb3a379228ad1696ba711004ef6e}{%
+           family={Juhre},
+           familyi={J\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbaa62b80d292b69e5288ed24086ecbe}{%
+           family={Heinen},
+           familyi={H\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Houston}%
+      }
+      \strng{namehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{fullhash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{fullhashraw}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{bibnamehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authorbibnamehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authornamehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authorfullhash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authorfullhashraw}{87d23c8aa0b1a1ff5e5238588f938167}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What, why and where? The fact that most companies do not derive growth only from their domestic markets is well known among the business community. Moving the focus successfully to an unknown international environment is becoming more and more important for a company to keep a competitive advantage and increase shareholder value. Since operations are brought to an international level, projects have to be executed increasingly across borders and cultures. This setting has a strong impact on the known universe of successful project management. Additionally, to managing the project's scope, cost, time, and quality, cultural issues as well as resource constraints have to be taken into account.}
+      \field{eventtitle}{Project {{Management Institute Annual Seminars}} \& {{Symposium}}}
+      \field{langid}{english}
+      \field{title}{Managing International and Cross-Cultural Projects}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/29LPRPET/Gestión de proyectos internacionales e interculturales.pdf;/Users/maser/Zotero/storage/TI4YQXCU/Managing international and cross-cultural projects.pdf;/Users/maser/Zotero/storage/S7HTQALV/managing-international-cross-cultural-projects-8924.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pmi.org/learning/library/managing-international-cross-cultural-projects-8924?utm_source=chatgpt.com
+      \endverb
+      \verb{url}
+      \verb https://www.pmi.org/learning/library/managing-international-cross-cultural-projects-8924?utm_source=chatgpt.com
+      \endverb
+    \endentry
+    \entry{kerznerUsingProjectManagement2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdcf816744d0edb39c5b7b2a299e6985}{%
+           family={Kerzner},
+           familyi={K\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{fullhash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{fullhashraw}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{bibnamehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authorbibnamehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authornamehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authorfullhash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authorfullhashraw}{bdcf816744d0edb39c5b7b2a299e6985}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{titleTranslation: Uso del Modelo de Madurez de la Gestión de Proyectos - Planificación Estratégica para la Gestión de Proyectos (3.ª Edición)}
+      \field{langid}{Ingles}
+      \field{title}{Using the Project Management Maturity Model - Strategic Planning for Project Management (3rd Edition)}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://app-knovel-com.bdbiblioteca.universidadean.edu.co/kn/resources/kpUPMMMSP2/toc
+      \endverb
+      \verb{url}
+      \verb https://app-knovel-com.bdbiblioteca.universidadean.edu.co/kn/resources/kpUPMMMSP2/toc
+      \endverb
+    \endentry
+    \entry{wysockiProjectManagementProcess2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bc3383ca54b0c60d7bb599c26062763}{%
+           family={Wysocki},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston London}%
+      }
+      \list{publisher}{1}{%
+        {Artech House}%
+      }
+      \strng{namehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{fullhash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{fullhashraw}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{bibnamehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authorbibnamehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authornamehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authorfullhash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authorfullhashraw}{7bc3383ca54b0c60d7bb599c26062763}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{No matter how perfect a project plan may be on paper, it is worthless if nobody actually uses it. This innovative guide shows you how to ensure that your team has the process capabilities needed to successfully carry out any project plan you put to paper. By using the SEI's Capability Maturity Model, The Project Management Maturity Model, and PMBOK Knowledge areas, you can baseline your team's process level to see how it measures up to those required by a project plan}
+      \field{isbn}{978-1-58053-717-9}
+      \field{langid}{american}
+      \field{note}{🔤Finalmente, hubo deficiencias en las definiciones del proceso de gestión de proyectos para el tiempo, el costo y la gestión de recursos humanos. Los equipos del proyecto se desempeñaban constantemente hasta el nivel documentado en estos procesos, pero ese nivel no era suficiente para un buen rendimiento del proyecto. El rendimiento consistente es claramente evidente desde la pequeña gama intercuartil para las áreas de conocimiento de tiempo, costo y recursos humanos. Tanto las anomalías PD como PP tuvieron que ser corregidas.🔤 \par "Finally, there were deficiencies in the project management process definitions for time, cost, and HR management. The project teams were performing consistently up to the level documented in these processes, but that level was not sufficient for good project performance. The consistent performance is clearly evident from the small interquartile range for the time, cost, and HR knowledge areas. Both the PD and PP anomalies had to be corrected." (Wysocki, 2004, p. 148) \par 🔤Trabajar con su cliente para lograr esa claridad, pero puede que no sea duradero. Las condiciones comerciales cambiarán, los mercados se ajustarán a la economía y a la nueva competencia, y los competidores cambiarán. Todos estos factores conducen al cambio de alcance en su proyecto y ponen en riesgo su proyecto. Eso significa que su proceso de gestión de proyectos debe tener un proceso de gestión de cambios sólido que esté integrado en otros procesos comerciales. 1.1.2.5 Alcance minimizado La compensación aquí es que los proyectos más largos incurrirán en más cambios y riesgos y menos para proyectos más cortos. El cambio de alcance provoca un cambio en el plan del proyecto y el mayor riesgo de que el trabajo completado anteriormente ya no sea valioso. Eso significa dólares desperdiciados y tiempo perdido. Un proyecto grande se puede descomponer en varios proyectos más pequeños interdependientes. Cada proyecto más pequeño debe justificarse en función de los entregables específicos y los resultados comerciales que se producirán. La medida en que la metodología de gestión de proyectos🔤 \par "working with your client to achieve that clarity, but it may not be long lasting. Business conditions will change, markets adjust to the economy and to new competition, and competitors will change. All of these factors lead to scope change in your project and place your project at risk. That means your project management process must have a solid change management process that is integrated into other business processes. 1.1.2.5 Minimized Scope The trade-off here is that longer projects will incur more change and risk and less so for shorter projects. Change in scope brings about a change in the project plan and the increased risk that work completed earlier may no longer be of value. That means wasted dollars and wasted time. A large project can be decomposed into several interdependent smaller projects. Each smaller project should be justified based on the specific deliverables and business outcomes that will be produced. The extent to which the project management methodology" (Wysocki, 2004, p. 5)}
+      \field{pagetotal}{1}
+      \field{series}{Artech {{House}} Effective Project Management Library}
+      \field{title}{Project Management Process Improvement}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/CZV5YLU5/Wysocki - 2004 - Project management process improvement.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{aikhmadi2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d59e7fac75cc6f2d4b14d5daaef2ac1}{%
+           family={Akhmadi},
+           familyi={A\bibinitperiod},
+           given={Saltanat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94fa52be2584310b8f302ebb750c3e75}{%
+           family={Tsakalerou},
+           familyi={T\bibinitperiod},
+           given={Mariza},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3849837c62245395d722f7e427e677fb}
+      \strng{fullhash}{3849837c62245395d722f7e427e677fb}
+      \strng{fullhashraw}{3849837c62245395d722f7e427e677fb}
+      \strng{bibnamehash}{3849837c62245395d722f7e427e677fb}
+      \strng{authorbibnamehash}{3849837c62245395d722f7e427e677fb}
+      \strng{authornamehash}{3849837c62245395d722f7e427e677fb}
+      \strng{authorfullhash}{3849837c62245395d722f7e427e677fb}
+      \strng{authorfullhashraw}{3849837c62245395d722f7e427e677fb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Knowledge has emerged as a key commodity in smart manufacturing and as a critical resource for innovation and entrepreneurship in Industry 4.0. Innovative firms develop competitive advantages through knowledge exploitation and exploration, whether acquired externally or developed internally. Knowledge management, that is the management of the processes of knowledge creation, sharing and storage, is essential for effective innovation. Software tools to support knowledge management have had limited success in their attempt to address equally well a multitude of sources of knowledge. The data-driven analysis of this paper, however, demonstrates that knowledge acquisition is largely focused within the firm and thus the integrative perspective of considering both internal and external sources of knowledge might be an impediment for the development of appropriate supporting technologies. In this context, the focus should shift to knowledge elicitation and the corresponding development of tools to support it within the firm.}
+      \field{day}{1}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{3rd {{International Conference}} on {{Industry}} 4.0 and {{Smart Manufacturing}}}
+      \field{shortjournal}{Procedia Computer Science}
+      \field{title}{Knowledge Acquisition, Elicitation, and Management in Innovative Firms}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{200}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{91\bibrangedash 100}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.procs.2022.01.208
+      \endverb
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/7LL3M9CN/S1877050922002174.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050922002174
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050922002174
+      \endverb
+      \keyw{empresas innovadoras,gestion de conocimientos,innovacion,knowledge acquisition,knowledge elicitation,Knowledge management}
+    \endentry
+    \entry{anifcentrodeestudioseconomicosRetosOportunidadesPymes2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53aaef56099bfd954feec575e980d7c1}{%
+           family={{ANIF Centro de Estudios Económicos}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Retos y oportunidades de las pymes anif comentario economico del dia.}%
+      }
+      \strng{namehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{fullhash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{fullhashraw}{53aaef56099bfd954feec575e980d7c1}
+      \strng{bibnamehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authorbibnamehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authornamehash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authorfullhash}{53aaef56099bfd954feec575e980d7c1}
+      \strng{authorfullhashraw}{53aaef56099bfd954feec575e980d7c1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{langid}{spanish}
+      \field{month}{9}
+      \field{note}{\begin{quotation} Retos y oportunidades de las Pymes: ANIF – Comentario Económico del Día \end{quotation}}
+      \field{title}{Retos y oportunidades de las pymes anif comentario economico del dia.}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/PQYI5QED/ANIF Centro de Estudios Económicos - 2021 - Retos y oportunidades de las pymes anif comentario economico del dia..pdf;/Users/maser/Zotero/storage/HSPTXMHL/pyme.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.anif.com.co/file-tag/pyme/
+      \endverb
+      \verb{url}
+      \verb https://www.anif.com.co/file-tag/pyme/
+      \endverb
+    \endentry
+    \entry{juhreManagingInternationalCrosscultural2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=db18bb3a379228ad1696ba711004ef6e}{%
+           family={Juhre},
+           familyi={J\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbaa62b80d292b69e5288ed24086ecbe}{%
+           family={Heinen},
+           familyi={H\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Houston}%
+      }
+      \strng{namehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{fullhash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{fullhashraw}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{bibnamehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authorbibnamehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authornamehash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authorfullhash}{87d23c8aa0b1a1ff5e5238588f938167}
+      \strng{authorfullhashraw}{87d23c8aa0b1a1ff5e5238588f938167}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What, why and where? The fact that most companies do not derive growth only from their domestic markets is well known among the business community. Moving the focus successfully to an unknown international environment is becoming more and more important for a company to keep a competitive advantage and increase shareholder value. Since operations are brought to an international level, projects have to be executed increasingly across borders and cultures. This setting has a strong impact on the known universe of successful project management. Additionally, to managing the project's scope, cost, time, and quality, cultural issues as well as resource constraints have to be taken into account.}
+      \field{eventtitle}{Project {{Management Institute Annual Seminars}} \& {{Symposium}}}
+      \field{langid}{english}
+      \field{title}{Managing International and Cross-Cultural Projects}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/29LPRPET/Gestión de proyectos internacionales e interculturales.pdf;/Users/maser/Zotero/storage/TI4YQXCU/Managing international and cross-cultural projects.pdf;/Users/maser/Zotero/storage/S7HTQALV/managing-international-cross-cultural-projects-8924.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pmi.org/learning/library/managing-international-cross-cultural-projects-8924?utm_source=chatgpt.com
+      \endverb
+      \verb{url}
+      \verb https://www.pmi.org/learning/library/managing-international-cross-cultural-projects-8924?utm_source=chatgpt.com
+      \endverb
+    \endentry
+    \entry{kerznerUsingProjectManagement2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdcf816744d0edb39c5b7b2a299e6985}{%
+           family={Kerzner},
+           familyi={K\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{fullhash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{fullhashraw}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{bibnamehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authorbibnamehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authornamehash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authorfullhash}{bdcf816744d0edb39c5b7b2a299e6985}
+      \strng{authorfullhashraw}{bdcf816744d0edb39c5b7b2a299e6985}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{titleTranslation: Uso del Modelo de Madurez de la Gestión de Proyectos - Planificación Estratégica para la Gestión de Proyectos (3.ª Edición)}
+      \field{langid}{Ingles}
+      \field{title}{Using the Project Management Maturity Model - Strategic Planning for Project Management (3rd Edition)}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://app-knovel-com.bdbiblioteca.universidadean.edu.co/kn/resources/kpUPMMMSP2/toc
+      \endverb
+      \verb{url}
+      \verb https://app-knovel-com.bdbiblioteca.universidadean.edu.co/kn/resources/kpUPMMMSP2/toc
+      \endverb
+    \endentry
+    \entry{wysockiProjectManagementProcess2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bc3383ca54b0c60d7bb599c26062763}{%
+           family={Wysocki},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston London}%
+      }
+      \list{publisher}{1}{%
+        {Artech House}%
+      }
+      \strng{namehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{fullhash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{fullhashraw}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{bibnamehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authorbibnamehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authornamehash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authorfullhash}{7bc3383ca54b0c60d7bb599c26062763}
+      \strng{authorfullhashraw}{7bc3383ca54b0c60d7bb599c26062763}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{No matter how perfect a project plan may be on paper, it is worthless if nobody actually uses it. This innovative guide shows you how to ensure that your team has the process capabilities needed to successfully carry out any project plan you put to paper. By using the SEI's Capability Maturity Model, The Project Management Maturity Model, and PMBOK Knowledge areas, you can baseline your team's process level to see how it measures up to those required by a project plan}
+      \field{isbn}{978-1-58053-717-9}
+      \field{langid}{american}
+      \field{note}{🔤Finalmente, hubo deficiencias en las definiciones del proceso de gestión de proyectos para el tiempo, el costo y la gestión de recursos humanos. Los equipos del proyecto se desempeñaban constantemente hasta el nivel documentado en estos procesos, pero ese nivel no era suficiente para un buen rendimiento del proyecto. El rendimiento consistente es claramente evidente desde la pequeña gama intercuartil para las áreas de conocimiento de tiempo, costo y recursos humanos. Tanto las anomalías PD como PP tuvieron que ser corregidas.🔤 \par "Finally, there were deficiencies in the project management process definitions for time, cost, and HR management. The project teams were performing consistently up to the level documented in these processes, but that level was not sufficient for good project performance. The consistent performance is clearly evident from the small interquartile range for the time, cost, and HR knowledge areas. Both the PD and PP anomalies had to be corrected." (Wysocki, 2004, p. 148) \par 🔤Trabajar con su cliente para lograr esa claridad, pero puede que no sea duradero. Las condiciones comerciales cambiarán, los mercados se ajustarán a la economía y a la nueva competencia, y los competidores cambiarán. Todos estos factores conducen al cambio de alcance en su proyecto y ponen en riesgo su proyecto. Eso significa que su proceso de gestión de proyectos debe tener un proceso de gestión de cambios sólido que esté integrado en otros procesos comerciales. 1.1.2.5 Alcance minimizado La compensación aquí es que los proyectos más largos incurrirán en más cambios y riesgos y menos para proyectos más cortos. El cambio de alcance provoca un cambio en el plan del proyecto y el mayor riesgo de que el trabajo completado anteriormente ya no sea valioso. Eso significa dólares desperdiciados y tiempo perdido. Un proyecto grande se puede descomponer en varios proyectos más pequeños interdependientes. Cada proyecto más pequeño debe justificarse en función de los entregables específicos y los resultados comerciales que se producirán. La medida en que la metodología de gestión de proyectos🔤 \par "working with your client to achieve that clarity, but it may not be long lasting. Business conditions will change, markets adjust to the economy and to new competition, and competitors will change. All of these factors lead to scope change in your project and place your project at risk. That means your project management process must have a solid change management process that is integrated into other business processes. 1.1.2.5 Minimized Scope The trade-off here is that longer projects will incur more change and risk and less so for shorter projects. Change in scope brings about a change in the project plan and the increased risk that work completed earlier may no longer be of value. That means wasted dollars and wasted time. A large project can be decomposed into several interdependent smaller projects. Each smaller project should be justified based on the specific deliverables and business outcomes that will be produced. The extent to which the project management methodology" (Wysocki, 2004, p. 5)}
+      \field{pagetotal}{1}
+      \field{series}{Artech {{House}} Effective Project Management Library}
+      \field{title}{Project Management Process Improvement}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/maser/Zotero/storage/CZV5YLU5/Wysocki - 2004 - Project management process improvement.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

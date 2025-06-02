@@ -1,6 +1,38 @@
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{pgfplots} % si usas gráficos con TikZ
+\pgfplotsset{compat=1.17}
+
+% Cambiar nombres por defecto
+\addto\captionsspanish{
+  \renewcommand{\tablename}{Tabla}
+  \renewcommand{\figurename}{Figura}
+}
+
+% Macro simplificada para figuras
+\newcommand{\figuraConFuente}[3]{%
+  \begin{figure}[H]
+    \centering
+    \caption{#1}
+    \label{fig:#1}
+    #2
+    \caption*{\small \parbox{\linewidth}{\centering \textbf{Fuente:} #3}}
+  \end{figure}
+}
+
+% Macro simplificada para tablas
+\newcommand{\tablaConFuente}[3]{%
+  \begin{table}[H]
+    \centering
+    \caption{#1}
+    \label{tab:#1}
+    #2
+    \caption*{\small \parbox{\linewidth}{\centering \textbf{Fuente:} #3}}
+  \end{table}
+}
 
 % Márgenes estándar de 2.54 cm
 \usepackage[letterpaper, margin=2.54cm]{geometry}
@@ -20,7 +52,9 @@
 \usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{tocloft}
+\usepackage{float}
 \usepackage[hidelinks]{hyperref}
+\usepackage[capitalize,noabbrev]{cleveref}
 \usepackage{pdflscape}
 \usepackage{authblk}
 \usepackage[
@@ -30,6 +64,12 @@ sortcites,
 url=true
 ]{biblatex}
 \addbibresource{ref.bib}
+
+% Configura nombres personalizados en español
+\crefname{figure}{figura}{figuras}
+\Crefname{figure}{Figura}{Figuras}
+\crefname{table}{tabla}{tablas}
+\Crefname{table}{Tabla}{Tablas}
 
 % Formato de títulos de secciones y subsecciones
 \titleformat{\section}
@@ -51,7 +91,7 @@ url=true
   {3.5em}{1.5ex plus .2ex minus .2ex}{.5em}  
 
 \titlespacing*{\subsubsection}{3em}{1.5ex plus 1ex minus .2ex}{.5em}
-
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
 
 % Información general
 \title{Propuesta de implementación de metodología y oficina de proyectos \(PO\) para la gestión de proyectos de tecnología y control industrial en la empresa S\&G Soluciones de Ingeniería.}
