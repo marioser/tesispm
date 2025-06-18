@@ -32,7 +32,7 @@
 
 # Archivos de compilación
 *.dvi
-*.pdf
+
 
 # Archivos temporales
 *~
